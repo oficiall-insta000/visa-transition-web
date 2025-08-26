@@ -125,7 +125,7 @@ body {
     position:absolute;
     left: 293px;
     top:27%;
-    background-color:rgb(207, 199, 184);
+    background-color:black;
     color:rgb(255, 0, 13);
     padding:3px;
     padding-left: 8px;
@@ -159,4 +159,5 @@ body {
     transform: rotateY(180deg);
     visibility : visible;
 }
+
 
