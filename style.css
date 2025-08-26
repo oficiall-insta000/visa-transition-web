@@ -37,7 +37,7 @@ body {
     transform: translate(150px ,130px);
 }
 .card-info{
-    background-color: rgba(59, 52, 52, 0.644);
+    background-color:  rgba(0,0,0,0.23);
     height: 263px;
     width: 433px;
     z-index:1;
@@ -159,3 +159,4 @@ body {
     transform: rotateY(180deg);
     visibility : visible;
 }
+
